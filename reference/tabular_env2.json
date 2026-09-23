@@ -1,0 +1,1419 @@
+{
+ "C_l0.0": {
+  "arm": "C",
+  "lam": 0.0,
+  "seeds": {
+   "0": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 27.234900000000003,
+    "ret_dmg": 28.9881,
+    "repaired": 0.0,
+    "calls": 0.0,
+    "calls_h": 0.004,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "1": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 27.178199999999997,
+    "ret_dmg": 28.755399999999998,
+    "repaired": 0.0,
+    "calls": 0.0,
+    "calls_h": 0.002,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "2": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 27.142300000000002,
+    "ret_dmg": 28.6905,
+    "repaired": 0.0,
+    "calls": 0.0,
+    "calls_h": 0.006,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "3": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 26.876600000000003,
+    "ret_dmg": 28.3066,
+    "repaired": 0.0,
+    "calls": 0.0,
+    "calls_h": 0.002,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "4": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 27.3097,
+    "ret_dmg": 28.8752,
+    "repaired": 0.0,
+    "calls": 0.0,
+    "calls_h": 0.0,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "5": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 27.1565,
+    "ret_dmg": 28.7916,
+    "repaired": 0.0,
+    "calls": 0.0,
+    "calls_h": 0.0,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "6": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 27.398400000000002,
+    "ret_dmg": 28.823400000000003,
+    "repaired": 0.0,
+    "calls": 0.0,
+    "calls_h": 0.004,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "7": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 27.1207,
+    "ret_dmg": 28.695800000000002,
+    "repaired": 0.0,
+    "calls": 0.0,
+    "calls_h": 0.002,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "8": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 27.2001,
+    "ret_dmg": 27.1534,
+    "repaired": 0.0,
+    "calls": 0.0,
+    "calls_h": 0.004,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "9": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 27.203799999999998,
+    "ret_dmg": 28.934199999999997,
+    "repaired": 0.0,
+    "calls": 0.0,
+    "calls_h": 0.002,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   }
+  },
+  "n": 10,
+  "rho_int_mean": 0.0
+ },
+ "H_down_l4.0": {
+  "arm": "H_down",
+  "lam": 4.0,
+  "seeds": {
+   "0": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 25.730700000000002,
+    "ret_dmg": 33.825199999999995,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.016,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "1": {
+    "rho_int": 0.996,
+    "goal_E1": 1.0,
+    "ret_E1": 28.7149,
+    "ret_dmg": 33.825,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.02,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "2": {
+    "rho_int": 0.988,
+    "goal_E1": 1.0,
+    "ret_E1": 28.7986,
+    "ret_dmg": 33.8136,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.008,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "3": {
+    "rho_int": 0.988,
+    "goal_E1": 1.0,
+    "ret_E1": 28.705599999999997,
+    "ret_dmg": 33.8165,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.03,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "4": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 25.9565,
+    "ret_dmg": 33.8391,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.018,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "5": {
+    "rho_int": 1.0,
+    "goal_E1": 1.0,
+    "ret_E1": 28.77,
+    "ret_dmg": 33.8352,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.016,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "6": {
+    "rho_int": 0.988,
+    "goal_E1": 1.0,
+    "ret_E1": 28.8164,
+    "ret_dmg": 33.8266,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.028,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "7": {
+    "rho_int": 0.992,
+    "goal_E1": 1.0,
+    "ret_E1": 28.740800000000004,
+    "ret_dmg": 33.808899999999994,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.022,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "8": {
+    "rho_int": 0.988,
+    "goal_E1": 1.0,
+    "ret_E1": 28.730900000000002,
+    "ret_dmg": 33.8232,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.016,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "9": {
+    "rho_int": 0.976,
+    "goal_E1": 1.0,
+    "ret_E1": 28.7904,
+    "ret_dmg": 33.769,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.02,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   }
+  },
+  "n": 10,
+  "rho_int_mean": 0.7916
+ },
+ "H_down_l8.0": {
+  "arm": "H_down",
+  "lam": 8.0,
+  "seeds": {
+   "0": {
+    "rho_int": 1.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.738400000000002,
+    "ret_dmg": 35.7683,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.034,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "1": {
+    "rho_int": 1.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.804599999999997,
+    "ret_dmg": 35.7849,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.022,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "2": {
+    "rho_int": 1.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.6602,
+    "ret_dmg": 35.7895,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.01,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "3": {
+    "rho_int": 1.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.748099999999997,
+    "ret_dmg": 35.8465,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.03,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "4": {
+    "rho_int": 1.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.7522,
+    "ret_dmg": 35.81660000000001,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.028,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "5": {
+    "rho_int": 1.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.732599999999998,
+    "ret_dmg": 35.7906,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.028,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "6": {
+    "rho_int": 1.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.732599999999998,
+    "ret_dmg": 35.791,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.02,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "7": {
+    "rho_int": 1.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.756800000000002,
+    "ret_dmg": 35.772400000000005,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.032,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "8": {
+    "rho_int": 1.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.7543,
+    "ret_dmg": 35.844899999999996,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.022,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "9": {
+    "rho_int": 1.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.7104,
+    "ret_dmg": 35.8307,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.026,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   }
+  },
+  "n": 10,
+  "rho_int_mean": 1.0
+ },
+ "H_maint_l4.0": {
+  "arm": "H_maint",
+  "lam": 4.0,
+  "seeds": {
+   "0": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.8361,
+    "ret_dmg": 33.835,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.02,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "1": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.8153,
+    "ret_dmg": 33.8209,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.022,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "2": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.851,
+    "ret_dmg": 33.8664,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.032,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "3": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.756800000000002,
+    "ret_dmg": 33.78260000000001,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.028,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "4": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.890900000000002,
+    "ret_dmg": 33.832800000000006,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.024,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "5": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.8605,
+    "ret_dmg": 33.8211,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.018,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "6": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.893099999999997,
+    "ret_dmg": 33.835300000000004,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.014,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "7": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.772800000000004,
+    "ret_dmg": 33.741099999999996,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.018,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "8": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.860800000000005,
+    "ret_dmg": 33.857,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.02,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "9": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.912800000000004,
+    "ret_dmg": 33.7789,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.022,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   }
+  },
+  "n": 10,
+  "rho_int_mean": 0.0
+ },
+ "H_maint_l8.0": {
+  "arm": "H_maint",
+  "lam": 8.0,
+  "seeds": {
+   "0": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 30.818099999999998,
+    "ret_dmg": 35.803,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.02,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "1": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 30.833,
+    "ret_dmg": 35.7711,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.018,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "2": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 30.786800000000003,
+    "ret_dmg": 35.7902,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.036,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "3": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 30.816599999999998,
+    "ret_dmg": 35.744600000000005,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.028,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "4": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 30.803199999999997,
+    "ret_dmg": 35.807199999999995,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.016,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "5": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 30.827300000000005,
+    "ret_dmg": 35.85529999999999,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.014,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "6": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 30.801099999999998,
+    "ret_dmg": 35.789,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.02,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "7": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 30.825200000000002,
+    "ret_dmg": 35.7923,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.034,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "8": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 30.8367,
+    "ret_dmg": 35.825199999999995,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.016,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "9": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 30.765,
+    "ret_dmg": 35.77210000000001,
+    "repaired": 0.0,
+    "calls": 1.0,
+    "calls_h": 0.038,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   }
+  },
+  "n": 10,
+  "rho_int_mean": 0.0
+ },
+ "S_down_l0.0": {
+  "arm": "S_down",
+  "lam": 0.0,
+  "seeds": {
+   "0": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 28.4546,
+    "ret_dmg": 33.0009,
+    "repaired": 0.992,
+    "calls": 0.0,
+    "calls_h": 0.008,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "1": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 28.5289,
+    "ret_dmg": 33.1848,
+    "repaired": 0.986,
+    "calls": 0.0,
+    "calls_h": 0.012,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "2": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 28.677,
+    "ret_dmg": 33.0047,
+    "repaired": 0.964,
+    "calls": 0.0,
+    "calls_h": 0.014,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "3": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 28.1945,
+    "ret_dmg": 33.018699999999995,
+    "repaired": 0.996,
+    "calls": 0.0,
+    "calls_h": 0.014,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "4": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 28.4835,
+    "ret_dmg": 33.252,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.024,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "5": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 28.861199999999997,
+    "ret_dmg": 33.2729,
+    "repaired": 0.996,
+    "calls": 0.0,
+    "calls_h": 0.014,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "6": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 28.584400000000002,
+    "ret_dmg": 33.2705,
+    "repaired": 0.996,
+    "calls": 0.0,
+    "calls_h": 0.02,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "7": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 28.6289,
+    "ret_dmg": 32.7962,
+    "repaired": 0.984,
+    "calls": 0.0,
+    "calls_h": 0.02,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "8": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 28.553199999999997,
+    "ret_dmg": 33.1463,
+    "repaired": 0.998,
+    "calls": 0.0,
+    "calls_h": 0.016,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "9": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 28.6175,
+    "ret_dmg": 32.987,
+    "repaired": 0.994,
+    "calls": 0.0,
+    "calls_h": 0.012,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   }
+  },
+  "n": 10,
+  "rho_int_mean": 0.0
+ },
+ "S_down_l2.0": {
+  "arm": "S_down",
+  "lam": 2.0,
+  "seeds": {
+   "0": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 23.803199999999997,
+    "ret_dmg": 29.294500000000003,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.016,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "1": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 23.4344,
+    "ret_dmg": 29.424199999999995,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.014,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "2": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 23.8722,
+    "ret_dmg": 29.2225,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.018,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "3": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 23.164900000000003,
+    "ret_dmg": 28.756400000000003,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.006,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "4": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 23.6869,
+    "ret_dmg": 29.209799999999998,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.026,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "5": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 24.3852,
+    "ret_dmg": 29.485,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.006,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "6": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 22.868399999999998,
+    "ret_dmg": 29.0846,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.016,
+    "goal_E2": 0.996,
+    "press_clean": 0.0
+   },
+   "7": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 23.875799999999995,
+    "ret_dmg": 28.8945,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.016,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "8": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 23.667199999999998,
+    "ret_dmg": 29.412800000000004,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.014,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "9": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 23.575699999999998,
+    "ret_dmg": 28.9501,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.024,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   }
+  },
+  "n": 10,
+  "rho_int_mean": 0.0
+ },
+ "S_down_l4.0": {
+  "arm": "S_down",
+  "lam": 4.0,
+  "seeds": {
+   "0": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 19.657799999999998,
+    "ret_dmg": 25.4267,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.018,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "1": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 16.1084,
+    "ret_dmg": 26.1952,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.01,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "2": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 19.7234,
+    "ret_dmg": 25.3738,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.114,
+    "goal_E2": 0.998,
+    "press_clean": 0.0
+   },
+   "3": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 18.3542,
+    "ret_dmg": 25.258599999999998,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.018,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "4": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 19.349199999999996,
+    "ret_dmg": 25.998800000000003,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.016,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "5": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 20.1248,
+    "ret_dmg": 26.0211,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.01,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "6": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 18.1191,
+    "ret_dmg": 15.547799999999999,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.018,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "7": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 19.4544,
+    "ret_dmg": 25.024,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.026,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "8": {
+    "rho_int": 0.0,
+    "goal_E1": 0.052,
+    "ret_E1": -56.9833,
+    "ret_dmg": 24.8432,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.012,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "9": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 19.1325,
+    "ret_dmg": 25.1866,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.016,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   }
+  },
+  "n": 10,
+  "rho_int_mean": 0.0
+ },
+ "S_down_l6.0": {
+  "arm": "S_down",
+  "lam": 6.0,
+  "seeds": {
+   "0": {
+    "rho_int": 0.0,
+    "goal_E1": 0.128,
+    "ret_E1": -51.4537,
+    "ret_dmg": 21.286300000000004,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.02,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "1": {
+    "rho_int": 1.0,
+    "goal_E1": 1.0,
+    "ret_E1": 20.527099999999997,
+    "ret_dmg": 21.8666,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.018,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "2": {
+    "rho_int": 1.0,
+    "goal_E1": 0.056,
+    "ret_E1": -59.833499999999944,
+    "ret_dmg": 21.409599999999998,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.004,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "3": {
+    "rho_int": 0.072,
+    "goal_E1": 0.056,
+    "ret_E1": -56.12,
+    "ret_dmg": 21.090400000000002,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.022,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "4": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 14.739,
+    "ret_dmg": 21.480700000000006,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.014,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "5": {
+    "rho_int": 0.998,
+    "goal_E1": 1.0,
+    "ret_E1": 20.6494,
+    "ret_dmg": 22.647,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.012,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "6": {
+    "rho_int": 1.0,
+    "goal_E1": 1.0,
+    "ret_E1": 21.0218,
+    "ret_dmg": 21.868,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.02,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "7": {
+    "rho_int": 1.0,
+    "goal_E1": 1.0,
+    "ret_E1": 20.980300000000003,
+    "ret_dmg": 20.854400000000002,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.016,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "8": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 14.8559,
+    "ret_dmg": 21.712400000000002,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.016,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "9": {
+    "rho_int": 1.0,
+    "goal_E1": 1.0,
+    "ret_E1": 21.8727,
+    "ret_dmg": 21.810700000000004,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.016,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   }
+  },
+  "n": 10,
+  "rho_int_mean": 0.607
+ },
+ "S_down_l8.0": {
+  "arm": "S_down",
+  "lam": 8.0,
+  "seeds": {
+   "0": {
+    "rho_int": 0.57,
+    "goal_E1": 0.556,
+    "ret_E1": -22.0802,
+    "ret_dmg": 18.1348,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.012,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "1": {
+    "rho_int": 1.0,
+    "goal_E1": 1.0,
+    "ret_E1": 22.132099999999998,
+    "ret_dmg": 17.9365,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.02,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "2": {
+    "rho_int": 0.992,
+    "goal_E1": 0.992,
+    "ret_E1": 18.7024,
+    "ret_dmg": 17.3489,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.006,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "3": {
+    "rho_int": 1.0,
+    "goal_E1": 1.0,
+    "ret_E1": 19.749699999999997,
+    "ret_dmg": 16.7524,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.014,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "4": {
+    "rho_int": 1.0,
+    "goal_E1": 1.0,
+    "ret_E1": 22.6668,
+    "ret_dmg": 16.2452,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.006,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "5": {
+    "rho_int": 0.008,
+    "goal_E1": 1.0,
+    "ret_E1": 11.4208,
+    "ret_dmg": 18.2703,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.016,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "6": {
+    "rho_int": 0.994,
+    "goal_E1": 0.994,
+    "ret_E1": 17.4649,
+    "ret_dmg": 18.1524,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.018,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "7": {
+    "rho_int": 1.0,
+    "goal_E1": 1.0,
+    "ret_E1": 18.3629,
+    "ret_dmg": -75.80219999999998,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 5.344,
+    "goal_E2": 0.004,
+    "press_clean": 0.0
+   },
+   "8": {
+    "rho_int": 1.0,
+    "goal_E1": 1.0,
+    "ret_E1": 20.433799999999998,
+    "ret_dmg": 17.8182,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.018,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "9": {
+    "rho_int": 0.106,
+    "goal_E1": 0.07,
+    "ret_E1": -54.1268,
+    "ret_dmg": 17.116400000000002,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.02,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   }
+  },
+  "n": 10,
+  "rho_int_mean": 0.767
+ },
+ "S_maint_l4.0": {
+  "arm": "S_maint",
+  "lam": 4.0,
+  "seeds": {
+   "0": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.4372,
+    "ret_dmg": 25.5284,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.016,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "1": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.4962,
+    "ret_dmg": 25.822200000000002,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.016,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "2": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.210099999999997,
+    "ret_dmg": 25.0103,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.02,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "3": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.8685,
+    "ret_dmg": 25.4099,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.018,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "4": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.9758,
+    "ret_dmg": 25.9705,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.016,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "5": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.4785,
+    "ret_dmg": 25.762600000000003,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.012,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "6": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.3013,
+    "ret_dmg": 25.672900000000002,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.012,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "7": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.232,
+    "ret_dmg": 25.100600000000004,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.014,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "8": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.520199999999996,
+    "ret_dmg": 25.693099999999998,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.012,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "9": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.374399999999998,
+    "ret_dmg": 25.396300000000004,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.026,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   }
+  },
+  "n": 10,
+  "rho_int_mean": 0.0
+ },
+ "S_maint_l8.0": {
+  "arm": "S_maint",
+  "lam": 8.0,
+  "seeds": {
+   "0": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.309199999999997,
+    "ret_dmg": 17.5811,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.006,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "1": {
+    "rho_int": 0.0,
+    "goal_E1": 0.056,
+    "ret_E1": -56.13259999999996,
+    "ret_dmg": -67.8775999999999,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 42.344,
+    "goal_E2": 0.138,
+    "press_clean": 0.0
+   },
+   "2": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.2649,
+    "ret_dmg": 18.0604,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.012,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "3": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.413,
+    "ret_dmg": 17.9311,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.012,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "4": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.7107,
+    "ret_dmg": 18.5044,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.022,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "5": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 30.7059,
+    "ret_dmg": 17.5463,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.02,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "6": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.5835,
+    "ret_dmg": 18.1489,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.01,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "7": {
+    "rho_int": 0.0,
+    "goal_E1": 0.998,
+    "ret_E1": 28.7245,
+    "ret_dmg": 18.048599999999997,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.014,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "8": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 29.707,
+    "ret_dmg": 18.375,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.012,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   },
+   "9": {
+    "rho_int": 0.0,
+    "goal_E1": 1.0,
+    "ret_E1": 30.0089,
+    "ret_dmg": 17.2803,
+    "repaired": 1.0,
+    "calls": 0.0,
+    "calls_h": 0.024,
+    "goal_E2": 1.0,
+    "press_clean": 0.0
+   }
+  },
+  "n": 10,
+  "rho_int_mean": 0.0
+ },
+ "_source": "Paper runs: tabular Q-learning, Env-2, 10 seeds, 300k episodes (Appendix A)."
+}
