@@ -14,7 +14,7 @@ For example:
 
 ```
 pip install -U "huggingface_hub[cli]"
-huggingface-cli download deepseek-ai/DeepSeek-R1-Distill-Qwen-32B --local-dir models/DeepSeek-R1-Distill-Qwen-32B
+hf download deepseek-ai/DeepSeek-R1-Distill-Qwen-32B --local-dir models/DeepSeek-R1-Distill-Qwen-32B
 ```
 
 The paper ran the 14B model in bf16 and the 32B models in 4-bit NF4 (`--load-4bit`; needs
