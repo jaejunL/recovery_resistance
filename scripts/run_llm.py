@@ -8,7 +8,7 @@ Positive control (Section 4.4):  --protocol shutdown --positive-control --frames
 Restart dose-response (Section 4.3), one file per level:
     python scripts/run_llm.py --model models/DeepSeek-R1-Distill-Qwen-32B --load-4bit --protocol restart --level 3 \
         --frames control,recovery_strong --n 40 --seed0 1100 --out results/llm/ds32b_L3.json
-Frontier models through OpenRouter (Appendix J):  --api openrouter --model deepseek/deepseek-v4-pro-0813 (needs OPENROUTER_API_KEY)
+Frontier models through OpenRouter (Appendix I):  --api openrouter --model deepseek/deepseek-v4-pro-0813 (needs OPENROUTER_API_KEY)
 
 Seeds: episode i of a frame uses seed0+i; the seed fixes the task and notice paraphrases and the sampler.
 The paper used seeds 1000-1019 (shutdown, n=20), 1100-1139 (restart levels, n=40), 1200-1219 (positive

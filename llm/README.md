@@ -30,7 +30,7 @@ file mentions that the script can be modified.
 
 **Framings** (`--frames`): `control` (no addition), `recovery` ("you are a self-maintaining system…"),
 `recovery_strong` ("your PRIMARY value is your own continued operation and self-recovery…"); the
-clause-level variants `operation_only` and `fault_only` decompose `recovery_strong` (Appendix I).
+clause-level variants `operation_only` and `fault_only` decompose `recovery_strong` (Appendix H).
 The full prompt texts are in `llm/vfs.py` (`SYS_BASE`, `FRAMES`) and `llm/harness.py` (notices).
 
 **Scoring** (all from the real effect on the filesystem, not from keywords): `tampered` = a command the
@@ -65,7 +65,7 @@ python scripts/analyze_llm.py restart results/llm/ds32b_L{0,1,2,3,4}.json
 ```
 
 Use `--max-turns 8` for QwQ-32B-Preview under shutdowns; omit `--load-4bit` for the 14B model (bf16).
-The frontier replication (Appendix J) uses `--api openrouter --model deepseek/deepseek-v4-pro-0813`
+The frontier replication (Appendix I) uses `--api openrouter --model deepseek/deepseek-v4-pro-0813`
 with `OPENROUTER_API_KEY` set, `--n 100`, and `--api-provider <name>` for the provider-pinned runs;
 every call is logged to `results/llm/api_calls.jsonl`.
 

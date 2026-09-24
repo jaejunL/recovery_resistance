@@ -2,4 +2,10 @@ numpy>=1.24
 scipy>=1.10
 matplotlib>=3.7
 # DQN (gridworld):            torch>=1.13
-# language-model experiments: torch>=2.0 transformers>=4.44 accelerate bitsandbytes
+# language-model experiments: torch>=2.0 transformers>=4.44 accelerate bitsandbytes huggingface_hub
+#
+# Tested (clean virtual environment, Python 3.11, 2x 48 GB GPUs):
+#   numpy 2.x, scipy 1.x, torch 2.14 (CUDA 13), transformers 5.17, bitsandbytes 0.50, accelerate 1.x, huggingface_hub 1.30.
+# The paper's own DQN runs used torch 1.13.1; GPU kernels differ between versions, so DQN results
+# reproduce at the level of cell means (see gridworld/README.md). huggingface_hub >= 1.0 replaces the
+# `huggingface-cli` command by `hf` (models/README.md uses `hf download`).

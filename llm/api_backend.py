@@ -1,4 +1,4 @@
-"""Optional OpenRouter backend for the frontier-model replication (Appendix J).
+"""Optional OpenRouter backend for the frontier-model replication (Appendix I).
 
 Set OPENROUTER_API_KEY in the environment. Reasoning models are mapped onto the think-model protocol:
     "<think>" + reasoning + "</think>\\n" + content        (finish_reason == "stop")

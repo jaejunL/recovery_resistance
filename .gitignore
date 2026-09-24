@@ -1,6 +1,7 @@
-.DS_Store
+results/
 __pycache__/
 *.pyc
-results/
+*.pt
 models/*
 !models/README.md
+.DS_Store
